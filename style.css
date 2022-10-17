@@ -101,6 +101,16 @@ header h1 {
   animation: topup;
   animation-duration: 1.3s;
   animation-delay: 200ms;
+  transition: transform 300ms;
+ 
+
+}
+
+.sorvetes:hover {
+  transition: transform 300ms;
+  transform: scale(1.05);
+  
+  
 
 }
 
