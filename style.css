@@ -36,7 +36,7 @@ header {
 
 }
 
-header img, header h1, .conteudo p{
+header h1, .conteudo p{
   animation: topdown;
   animation-duration: 1.3s; 
   animation-delay: 200ms;
